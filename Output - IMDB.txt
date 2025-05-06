@@ -1,0 +1,8 @@
+Output:
+
+Enter the Query:Inception   
+
+Movies similar to 'Inception':
+1. Torque
+2. Drive Hard
+3. Flashdance
